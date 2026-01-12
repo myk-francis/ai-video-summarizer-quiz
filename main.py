@@ -5,7 +5,7 @@ from google import genai
 
 load_dotenv()
 
-MODEL_NAME = "gemini-1.5-pro"
+MODEL_NAME = "gemini-3-flash-preview"
 
 
 # -------------------------
