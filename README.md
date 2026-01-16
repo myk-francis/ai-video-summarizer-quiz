@@ -1,8 +1,88 @@
 # AI-Powered Video Summarizer & Quiz Generator
 
-This project demonstrates an AI-driven pipeline that transforms long-form video content into concise summaries and interactive quizzes.
+CUTLINE
 
-The goal is not just compression, but **surfacing signal from noise** — helping people understand and retain meaningful ideas from long videos.
+A Narrative Liquidity Engine for Signal-First Vibe Broadcasting
+
+What This Is
+
+CUTLINE is an offline Python prototype designed to identify high-resonance narrative spikes inside long-form human conversation and convert them into Vibe Broadcasting-ready artifacts — without flattening truth or generating synthetic slop.
+
+This tool does not optimize for volume.
+It optimizes for signal dominance.
+
+Research Summary: Mango Magic Protocol
+
+Mango Magic operates on a fundamentally different axis than traditional content systems.
+
+Instead of scaling output, it engineers Narrative Dominance through:
+
+Intel & Access – sourcing authentic human moments
+
+Studio Environment – preserving emotional truth
+
+Signal Distillation – isolating moments of maximal resonance
+
+Vibe Broadcasting – converting those moments into vertical cinema that arrests the scroll
+
+The protocol rejects AI-generated noise and prioritizes provenance, scarcity, and emotional compression.
+
+CUTLINE is built specifically for Phase 3 → Phase 4.
+
+What CUTLINE Does
+
+Given a public long-form transcript, CUTLINE:
+
+Segments conversation into semantic time windows
+
+Scores each segment using custom Mango-aligned metrics
+
+Detects 3–7 Narrative Spikes with the highest Narrative Liquidity™
+
+Outputs:
+
+Why each spike works
+
+Emotional and narrative tags
+
+Vertical cut guidance
+
+Platform-specific hooks (X / TikTok / Reels)
+
+A synthetic-slop analysis explaining why the moment is irreplaceably human
+
+Core Metrics (Why They Matter)
+
+CUTLINE introduces Narrative Liquidity™, a composite score built from:
+
+Resonance Density – emotional + insight compression
+
+Quotability – memetic survivability
+
+Narrative Turn – belief or tension shifts
+
+Human Provenance – uncertainty, specificity, contradiction
+
+Synthetic Slop Penalty – generic or AI-flavored language
+
+These metrics intentionally favor moments that feel alive, risky, and unrepeatable.
+
+Impact: Fighting Noise, Preserving Signal
+
+Running CUTLINE on a public podcast surfaces moments that:
+
+Would dominate vertical feeds due to emotional volatility
+
+Resist AI imitation due to uncertainty and specificity
+
+Preserve the speaker’s original narrative intent
+
+This is not automation for scale.
+It is distillation for dominance.
+
+One Ambitious Next Step
+
+Integrate CUTLINE into a human-in-the-loop Studio Environment where editors receive real-time Narrative Liquidity feedback while crafting Mini TV Shows — turning CUTLINE into a foundational layer of Mango Magic’s Vibe Broadcasting infrastructure.
 
 ---
 
@@ -58,68 +138,3 @@ python main.py
 This Joe Rogan Experience episode features actor and director Bradley Cooper. The conversation explores the psychological toll of modern media, the evolving culture of stand-up comedy, and the rigorous physical and emotional demands of high-level acting.
 
 ### Key Ideas
-
-**The Psychology of Modern Media**
-
-- **Dopamine Hijacking:** Short-form content (like TikTok) acts as a "dopamine drip" that creates low-level anxiety and reduces attention spans, whereas long-form content (documentaries, three-hour films like _Oppenheimer_) fulfills a deeper human need for connection and storytelling.
-- **Memory Distortion:** Constant exposure to digital content and VR can blur the lines between real-life experiences and viewed footage, altering how the brain stores memories.
-- **Dunbar’s Number:** The human brain is evolutionarily limited to maintaining relationships with roughly 150 to 1,500 people. Modern fame and social media overload this capacity, leading to cognitive strain.
-
-**The Evolution of Comedy Culture**
-
-- **From Competition to Collaboration:** The rise of the internet and podcasts transformed comedy from a zero-sum competition into a collaborative ecosystem.
-- **Authenticity in Film:** Cooper emphasizes realism in filmmaking by capturing genuine environments rather than manufactured performances.
-
-**The Craft of “The Method”**
-
-- **Staying in Character:** Remaining in character ensures performances are instinctive rather than calculated.
-- **Emotional Utility:** Personal experiences and insecurities are consciously used as tools for authentic acting.
-
-**The Physical Toll of _American Sniper_**
-
-- **Extreme Transformation:** Cooper underwent a dramatic physical transformation, requiring intense training and discipline.
-- **Responsibility to the Subject:** Portraying a real person carried a deep emotional and ethical responsibility.
-
-**Inspiration and the “Shadow”**
-
-- **The Catalyst:** Cooper traces his lifelong dedication to storytelling back to watching _The Elephant Man_ at age 11.
-
-Q1: According to the discussion on modern media, how does long-form content like 'Oppenheimer' differ from short-form content like TikTok?
-
-- Long-form content creates a 'dopamine drip' that leads to low-level anxiety.
-- Long-form content satisfies a deep human need for connection and storytelling.
-- Long-form content is primarily responsible for reducing human attention spans.
-- Long-form content causes more significant memory distortion than short-form content.
-  ✔ Answer: Long-form content satisfies a deep human need for connection and storytelling.
-
-Q2: How does the concept of 'Dunbar’s Number' explain the difficulties of modern fame and social media?
-
-- It suggests that social media improves the brain's capacity to store names.
-- It proves that humans are evolutionarily designed to interact with thousands of people daily.
-- It indicates that the brain's capacity for relationships is limited, leading to an inability to manage high-volume social exposure.
-- It explains why digital content is more memorable than real-life experiences.
-  ✔ Answer: It indicates that the brain's capacity for relationships is limited, leading to an inability to manage high-volume social exposure.
-
-Q3: What primary factor changed the comedy scene from a 'cutthroat' competition to a collaborative environment?
-
-- The decline of open mic nights.
-- The transition to canned laughter.
-- The rise of the internet and podcasts.
-- A renewed focus on late-night television.
-  ✔ Answer: The rise of the internet and podcasts.
-
-Q4: Why does Bradley Cooper stay in his character’s voice throughout filming?
-
-- To intimidate other actors.
-- To follow rigid acting rules.
-- To make the performance instinctive rather than calculated.
-- To avoid emotional vulnerability.
-  ✔ Answer: To make the performance instinctive rather than calculated.
-
-Q5: Why did Cooper adopt personal rituals while preparing for _American Sniper_?
-
-- To improve his diet efficiency.
-- To distract from physical strain.
-- To fulfill a responsibility to merge with the real-life subject.
-- To emulate other actors.
-  ✔ Answer: To fulfill a responsibility to merge with the real-life subject.
